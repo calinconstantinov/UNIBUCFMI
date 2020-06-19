@@ -1,2 +1,1 @@
-# UNIBUCFMI
-OOP Lab
+# fmi

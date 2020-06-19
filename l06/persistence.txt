@@ -1,0 +1,2 @@
+calin,30
+gigel,20
